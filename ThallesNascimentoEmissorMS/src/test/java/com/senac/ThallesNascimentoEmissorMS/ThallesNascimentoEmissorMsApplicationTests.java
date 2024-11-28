@@ -1,0 +1,13 @@
+package com.senac.ThallesNascimentoEmissorMS;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ThallesNascimentoEmissorMsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
